@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class PalindromeTest {
+public class PalDemoTestt {
 
 	@Test
 	public void whenEmptyString_thenAccept() {
